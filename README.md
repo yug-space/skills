@@ -6,6 +6,7 @@ installable with the [`npx skills`](https://github.com/vercel-labs/skills) packa
 | Skill | What it does |
 |-------|--------------|
 | [`cognitive-load`](./skills/cognitive-load/SKILL.md) | Keeps code changes minimal, surgical, and low-cognitive-load for reviewers — counteracts model **over-editing**. |
+| [`scott-adams-writing`](./skills/scott-adams-writing/SKILL.md) | Makes writing clear and persuasive using Scott Adams' method — cut clutter, simplify, hook the reader. |
 
 ## Install
 
